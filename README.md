@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Weight Recorder
 
 Start UI:
 
