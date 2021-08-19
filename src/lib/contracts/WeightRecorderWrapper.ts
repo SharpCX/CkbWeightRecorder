@@ -6,7 +6,7 @@ const DEFAULT_SEND_OPTIONS = {
     gas: 6000000
 };
 
-export class SimpleStorageWrapper {
+export class WeightRecorderWrapper {
     web3: Web3;
 
     contract: WeightRecorder;
