@@ -1,3 +1,5 @@
+yarn && yarn build && yarn ui
+
 1. A screenshot or video of your EVM application on Layer 2 with Force Bridge support.
 
 ![](t80.jpg)
